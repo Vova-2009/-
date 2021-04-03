@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+header {
+   background-color: #0776A0; 
+   padding-top: 9px;
+   padding-bottom: 4px;
+}
+class {
+    background-color: #FFB600;
+    border-radius: 4px;
+    font-size: 36px;
+}
+.lol {
+    text-align:center;
+}
+.lal {      
+    color: #FF2C00;
+    margin-left: 42px;
+}
+.gg {
+    margin-left: 40px;
+}
+.tp {
+    border-top: solid 5px black;
+    border-bottom: solid 5px black;
+    text-align:center;
+    padding: 32px;
+}
+.hh {
+    margin-right: 40px;
+}
+.nn {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.ff {
+    margin-left: 42px;
+}
+footer {
+    background-color: #024C68;
+    padding-top: 21px;
+    padding-bottom: 16px;
+}
+.pp {
+    color: #FFFFFF;
+    margin-left: 45px;
+}
+.ii {
+    margin-left: 24px;
+}
