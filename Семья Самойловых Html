@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>Семья самойловых</title>
+    </head>
+    <body>
+        <header>
+            <p><img class= "ii"src="https://mars.algoritmika.org/uploads/2021/01/logo_0_1611261359.svg" width="87px" height="47.8px"> <class>Photos</class></p>
+        </header>
+        <main>
+            <h1 class= "lol"><b>Самойлов и Ко</b></h1>
+            <p><img class= "gg" src="https://mars.algoritmika.org/uploads/2021/01/happy-family-2284698_1920%201_0_1611261360.png" width="240px" height="250px"><img class= "nn" src="https://mars.algoritmika.org/uploads/2021/01/children-817368_1920%201_0_1611261360.png" width="200px" height="250px"><img class= "hh" src="https://mars.algoritmika.org/uploads/2021/01/house-1158139_1920%201_0_1611261360.png" width="380px" height="250px"></p>
+            <h1 class= "lal">Мы - семья Самойловых <img src="https://mars.algoritmika.org/uploads/2021/01/smile_0_1611261360.svg"/"></h1>
+    <table>
+        <tr>
+            <td><img class= "ff" src="https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg"></td>
+            <td>папа Алекс — инженер, архитектор</td>
+        </tr>
+        <tr>
+            <td><img class= "ff" src="https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg"></td>
+            <td>мама Наталья — ландшафтный дизайнер, флорист</td>
+        </tr>
+        <tr>
+            <td><img class= "ff" src="https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg"></td>
+            <td>дети Джеймс и Алёна — начинающие фотографы</td>
+        </tr>
+        <tr>
+            <td><img class= "ff" src="https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg"></td>
+            <td>пёс Джон — главный в весёлой команде</td>
+        </tr>
+    </table>
+            <h1 class= "tp">Любим весёлые</br> праздники для семей</h1>
+        </main>
+        <footer>
+            <p class= "pp">Эл. почта:</p>
+            <p class= "pp">Телефон:</p>
+        </footer>
+    </body>
+</html>
